@@ -17,7 +17,7 @@ Some users create website accounts with predictable usernames and passwords whic
 
 [-] used the combined data to log into the user's account
 
-<img src='<img src='SimpleToDoAppUDCSamantha.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />' title='BruteForceAttacks' width='' alt='BruteForceAttacks' />
+<img src='image.png' title='BruteForceAttacks' width='' alt='BruteForceAttacks' />
 
 https://github.com/samanthastewart19/Username-Enumeration-via-Different-responses-Brute-Force-Attacks-/blob/main/image.png
 
