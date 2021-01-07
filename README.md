@@ -3,7 +3,7 @@ Hacking a website portal (with permission) to identify vulnerable accounts with 
 
 Some users create website accounts with predictable usernames and passwords which makes them vulnerale to cyberattacks. In an attempt to notify PortSwigger of its Academy users with such vulnerabailities, I utilized Burp and FoxyProxy extension to FireFox to execute an attack on the Academy Portal. 
 
-#The Process
+#The-Process
 [] created an account with PortSwigger Blog Community
 [] attempted to log into the Web Security Academy using a random username and password
 [] sent the login request from Burp Browsing History to Burp Intruder
